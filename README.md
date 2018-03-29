@@ -8,11 +8,11 @@
 
 __个人能力__  
 精通C/C++、Java；熟悉Python、HTML/Javascript/CSS、makefiel；熟悉linux命令。嵌入式-后台-前端都写过，能自行编写测试单元，但钻研重点在嵌入式，熟悉UART，IIC，SP等接口,并输出过[基于STM32的SDK](https://github.com/Neutree/STM32f103DriverLib)。熟悉物联网MQTT协议、HTTP协议、熟悉socket原理以及使用。  
- 
+
 ---
 
 __经历:__  
-__大学期间__ 接触51，stm32，avr等单片机；arduino、raspberry pi等解决方案，一共参与10+个[project]()，有驱动过多种传感器，并做成了SDK([查看项目](https://github.com/Neutree/STM32f103DriverLib))，另外一个比较亮的是思维车([查看视频](http://v.youku.com/v_show/id_XMTUxNjYxMDQ0NA==.html?firsttime=0))。  
+__大学期间__ 接触51，stm32，avr等单片机；arduino、raspberry pi等解决方案，一共参与10+个[project](https://github.com/afshare/Abstract/blob/master/school/projectAbstract.md)，有驱动过多种传感器，并做成了SDK([查看项目](https://github.com/Neutree/STM32f103DriverLib))，另外一个比较亮的是思维车([查看视频](http://v.youku.com/v_show/id_XMTUxNjYxMDQ0NA==.html?firsttime=0))。  
 
 __现今__ 在[TCL通讯](http://www.tclcom.com/)担任驱动工程师，工作职责如下：  
 
